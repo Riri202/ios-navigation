@@ -28,6 +28,7 @@
 		86DBC63A2D5688DF00494CBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		86DBC6402D568BDD00494CBB /* RedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedViewController.swift; sourceTree = "<group>"; };
 		86DBC6422D568E1500494CBB /* GreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
+		86DBC6442D569B5D00494CBB /* closures-lab.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "closures-lab.playground"; path = "../../closures-lab.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		86DBC6202D5688DD00494CBB = {
 			isa = PBXGroup;
 			children = (
+				86DBC6442D569B5D00494CBB /* closures-lab.playground */,
 				86DBC62B2D5688DD00494CBB /* ios-navigation */,
 				86DBC62A2D5688DD00494CBB /* Products */,
 			);
